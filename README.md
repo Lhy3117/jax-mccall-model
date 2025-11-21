@@ -1,6 +1,6 @@
 # 🚀 Exploring the McCall Job Search Model
 
-Hi there! 👋 Welcome to this repository.
+👋 Welcome to this repository.
 
 This project is a complete reconstruction and integration of the **McCall Job Search Model**, one of the most famous frameworks in labor economics.
 
