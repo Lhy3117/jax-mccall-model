@@ -22,10 +22,11 @@ This isn't just code; it's a guided tour. The notebook builds up complexity step
 ## 🛠️ Under the Hood
 
 I used **Python** and **JAX** for this project.
+
 *   **Why JAX?** It allows for Just-In-Time (JIT) compilation, making our iterative solvers blazingly fast. ⚡
+    > **Note:** If you are new to JAX or want to verify your setup, check out my **[JAX_essentials](https://github.com/Lhy3117/JAX_essentials)** repository for a quick start guide!
 *   **Visualization**: Lots of plots using Matplotlib to build intuition.
 *   **Math**: Every section starts with the economic theory and LaTeX equations, so you know exactly what we are coding.
-
 ## 🏃‍♂️ How to Run It
 
 1.  **Clone the repo**:
