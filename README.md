@@ -6,7 +6,7 @@ This project is a complete reconstruction and integration of the **McCall Job Se
 
 I created this notebook (`mccall_search_dynamics.ipynb`) to deeply understand how dynamic programming applies to unemployment and wage decisions. Instead of having scattered scripts, I’ve unified everything into a single, cohesive story—from the simplest model to complex ones with continuous shocks.
 
-Whether you are a student of computational economics or just curious about how people decide to accept a job, I hope this helps you!
+I built this to learn, and I'm sharing it in hopes that it might spark some ideas for you!
 
 ## 🌟 What's Inside?
 
